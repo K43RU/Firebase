@@ -1,0 +1,27 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K43RU/Firebase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K43RU/Firebase/issues"
+  },
+  "homepage": "https://github.com/K43RU/Firebase#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.1",
+    "firebase": "^9.8.3",
+    "firebase-admin": "^11.0.0",
+    "jest": "^28.1.1"
+  }
+}
